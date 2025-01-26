@@ -1,10 +1,9 @@
-<?php get_header(); ?>
-
-<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
-
-
-<?php endwhile; else: ?>
-    <p>Записей нет</p>
-<?php endif; ?>
-
-<?php get_footer(); ?>
+<?php
+/**
+ * This file has been left empty on purpose.
+ *
+ * @link https://core.trac.wordpress.org/ticket/54272
+ *
+ * @package merantauw-theme
+ * @since 1.0.0
+ */
